@@ -1,6 +1,6 @@
 # HAformer
 
-This repo is the official code of **HAformer: Improving Binary Code Similarity Detection with Hex Machine Code and Assembly Code Fusion**. 
+This repo is the official code of **HAformer: Semantic fusion of hex machine code and assembly code for cross-architecture binary vulnerability detection**. 
 
 ## Get Started
 ### Requirements
