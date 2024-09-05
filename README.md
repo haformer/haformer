@@ -28,8 +28,8 @@ pip install transfromers
 git clone https://github.com/haformer/haformer.git && cd haformer
 ```
 
-Download [haformer-base-bin.zip]() and extract them `./output/model/finetune/haformer-base-bin/`. 
-(The model weights will be made publicly available once the paper gets accepted for publication.)
+Download `haformer-base-bin.zip` [baidu drive](https://pan.baidu.com/s/1WxOi5ICCWezrWTz-9TWmLA?pwd=gcvh) or [google drive](https://drive.google.com/file/d/1M2_XJncj-wOYSsDsLPKIK1YcQpQpT6b5/view?usp=drive_link) and extract them `./output/model/finetune/haformer-base-bin/`. 
+
 ```
 unzip haformer-base-bin.zip
 ```

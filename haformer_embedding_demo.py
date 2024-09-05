@@ -40,8 +40,8 @@ if __name__ == '__main__':
     arch_list = ['x86'] * 2
     asm_norm_list = []
     hex_norm_list = []
-    inst_bound_asm_list = []
-    inst_bound_hex_list = []
+    # inst_bound_asm_list = []
+    # inst_bound_hex_list = []
     for asm_str, hex_str, arch in tqdm(zip(asm_str_list, hex_str_list, arch_list), desc="asm", total=len(asm_str_list)):
         asm_list = norm_inst(json.loads(asm_str), arch=arch, split_hex=False)
         hex_list = norm_hex(json.loads(hex_str), arch=arch)
