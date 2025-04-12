@@ -34,6 +34,18 @@ Download `haformer-base-bin.zip` [baidu drive](https://pan.baidu.com/s/1WxOi5ICC
 unzip haformer-base-bin.zip
 ```
 
+The Hugging Face link for [haformer-base-bin](https://huggingface.co/xunge/haformer-base-bin) is also available.
+
+#### 4. Run demo code.
+
+The file `haformer_embedding_demo.py` includes sample inputs and embedding code. 
+
+```
+python haformer_embedding_demo.py
+```
+
+Additionally, our training and test datasets—covering assembly code and hex machine code for all architectures—are available on [baidu drive](https://pan.baidu.com/s/104hD-w7aFNEJJ0uJ9RHcLA?pwd=74mn).
+
 ## Acknowledgement
 
 * [transformers](https://github.com/huggingface/transformers)
